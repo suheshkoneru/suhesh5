@@ -1,0 +1,32 @@
+{
+  "profile":{
+    "name":"suhesh",
+    "email":"suheshkoneru@gmail.com",
+    "mobile":"8888888823"
+  }
+}
+
+{
+
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+    "dergree":"btech",
+    "institute":"pvpsit",
+    "data":["2015-19","80%"]
+  },
+  {
+  "dergree":"inter",
+  "institute":"narayana",
+  "data":["2014-16","90%"]
+},
+{
+"dergree":"ssc",
+"institute":"ssk",
+"data":["2014","80%"]
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+"details":{
+  "name":"suheshkoneru",
+  "image":"index.png",
+  "email":"suheshkoneru@gmail.com",
+  "mobile":"888888888"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+    "degree":"btech",
+    "institute":"pvpsit",
+    "data":["2015-19","80%"]
+  },
+  {
+  "degree":"intermediate",
+  "institute":"narayana",
+  "data":["2014-16","90%"]
+},
+{
+"degree":"ssc",
+"institute":"ssk",
+"data":["2014","80%"]
+}
+],
+"skills":[
+{
+  "title":"programming language",
+  "info":["c","c++","python","java"]
+},
+{
+   "title":"data base",
+   "info":["oracle","mysql","sql"]
+},
+   {
+     "title": "os",
+     "info":["window","mac","unix","kailinux"]
+   },
+  {
+    "title":"wt",
+    "info":["html","css","javascript"]
+}
+],
+"achivements":[
+  {
+    "info":["coding","bsnlworkshop"]
+  }
+]
+}
